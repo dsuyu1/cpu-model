@@ -1,0 +1,15 @@
+{
+  "status": "TEMPLATE: replace unknown values before comparing results",
+  "runtime_commit": "unknown",
+  "model_sha256": "unknown",
+  "quantization": "unknown",
+  "cpu": "unverified Xeon Gold 6140",
+  "threads": null,
+  "threads_batch": null,
+  "context": null,
+  "parallel_slots": null,
+  "kv_types": "unknown",
+  "startup_arguments_without_secrets": [],
+  "workload_condition": "unknown",
+  "cache_regime": "unknown"
+}
